@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<span
+  className="Die"
+>
+  <i
+    class="fas fa-dice-undefined fa-10x"
+  />
+</span>
+`;

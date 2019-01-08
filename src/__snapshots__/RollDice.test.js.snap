@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    className="RollDice"
+  >
+    <Die
+      num="one"
+    />
+    <Die
+      num="two"
+    />
+  </div>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+      Roll Dice
+    </button>
+  </div>
+</div>
+`;
